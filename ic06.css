@@ -1,0 +1,24 @@
+body {
+	
+}
+
+#frame {
+	height: 500px;
+	width: 500px;
+}
+
+
+circle {
+	fill: orange;
+
+}
+
+
+line {
+	stroke:darkblue;
+	stroke-width: 10px;
+}
+
+.addRed {
+	stroke: red;
+}

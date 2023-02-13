@@ -1,7 +1,7 @@
 # ic-06
 ic-06 - JavaScript Part 2
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: `[https://github.com/DS4200-S23-Class/ic-06-ic_06_yudai]`
 
 ## Purpose
 
@@ -13,7 +13,8 @@ Clone this repo and work locally. Be sure to push the final version of your code
 
 1. Resources to support this assignment are provided below in the Resources section.  
 
-1. Create a GitHub Page for your repo and add the link to it above where you see `[insert your clickable hyperlink here]`. 
+1. Create a GitHub Page for your repo and add the link to it above where you see 
+`[https://github.com/DS4200-S23-Class/ic-06-ic_06_yudai]`. 
 
 1. Open the index.html file included in your repo. Please do the following: 
    - Title your webpage "ic-06". 
